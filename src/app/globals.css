@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.head-link:hover {
+  color: #7699ed;
+}
+

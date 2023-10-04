@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Maggie",
+    "image": "https://indiakirasoi.com/wp-content/uploads/2020/04/maggie-thumbanil-scaled.jpg",
+    "price": 50
+  },
+  {
+    "id": 2,
+    "name": "Sandwich ",
+    "image": "https://img.freepik.com/free-photo/grilled-sandwich-with-bacon-fried-egg-tomato-lettuce-served-wooden-cutting-board_1150-42571.jpg?w=2000",
+    "price": 100
+  },
+  {
+    "id": 3,
+    "name": "Kadhai Paneer",
+    "image": "https://dinedelicious.in/wp-content/uploads/2021/10/Kadai-Paneer-Recipe-6-500x375.jpg",
+    "price": 80
+  }
+]
